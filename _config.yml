@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8659574
+  brandStrength: 0.3042553
+  lightness: 0.2914894
+  brandColors:
+    - '#06070E'
+    - '#4B6840'
+    - '#FFFFFF'
+    - '#FBAB89'
+    - '#FFE0B4'
+  rhythmicContrast: 0.2468085
+typography_spectrum: 0.09148936
+name: Johnny Glucose
