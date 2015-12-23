@@ -1,7 +1,7 @@
 ---
-datePublished: '2015-12-23T01:59:28.212Z'
+datePublished: '2015-12-23T02:00:33.593Z'
 description: Why the extra (diamond) added to our pics?
-dateModified: '2015-12-22T19:49:21.862Z'
+dateModified: '2015-12-23T01:59:28.212Z'
 title: ''
 author: []
 sourcePath: _posts/2015-12-23-why-the-extra-diamond-added-to-our-pics.md
