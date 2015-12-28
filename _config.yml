@@ -1,26 +1,26 @@
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#542E1E'
-    - '#FFFB9A'
-    - '#FFFA02'
-    - '#A3A4A3'
-    - '#0288E9'
-  lightness: 0.9723404
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#542E1E'
+    - '#FFFB9A'
+    - '#FFFA02'
+    - '#A3A4A3'
+    - '#0288E9'
+  rhythmicContrast: 1
+layout_spectrum: 1
 name: Johnny Glucose
