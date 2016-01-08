@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0
 color:
   saturation: 0
-  lightness: 0
   brandStrength: 0
+  lightness: 0
   brandColors:
     - '#542E1E'
     - '#FFFB9A'
@@ -21,6 +22,5 @@ color:
     - '#A3A4A3'
     - '#0288E9'
   rhythmicContrast: 0
-typography_spectrum: 0.02553191
-layout_spectrum: 0.1638298
+layout_spectrum: 0
 name: Johnny Glucose
