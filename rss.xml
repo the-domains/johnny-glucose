@@ -4,7 +4,7 @@
         <description><![CDATA[Johnnys GlueClose]]></description>
         <link>https://thegrid.ai/johnny-glucose/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 21:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 21:13:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnny-glucose/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[She was golden until she grew olden. Eventually dried up and was grittier than a bag of desert sand.]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/johnny-glucose/universal-universe/index.html</link>
             <guid isPermaLink="false">5c22e220-93f0-4b4a-99c5-5b6370735a8f</guid>
             <pubDate>Wed, 13 Jan 2016 10:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colour for the sake]]></title>
-            <description><![CDATA[<article><h1>Colour for the sake</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/337707161df6c9d4210153a7f9c4a2e7c7db3805.png"></article>]]></description>
-            <link>https://thegrid.ai/johnny-glucose/colour-for-the-sake/index.html</link>
-            <guid isPermaLink="false">4bcd09a4-7228-4554-a4be-294be723603a</guid>
-            <pubDate>Wed, 13 Jan 2016 21:12:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/johnny-glucose/sandy/index.html</link>
             <guid isPermaLink="false">a1f0ab9e-9edc-4009-b6eb-c820ad3f71bb</guid>
             <pubDate>Wed, 13 Jan 2016 21:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raps]]></title>
+            <description><![CDATA[<article><h1>Raps</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b5e9ad6b257b0ed91446fb0e7ba3c30a6bdd2b.png"></article>]]></description>
+            <link>https://thegrid.ai/johnny-glucose/raps/index.html</link>
+            <guid isPermaLink="false">870a1675-42aa-4e45-b7d7-575d81ab2e2a</guid>
+            <pubDate>Wed, 13 Jan 2016 09:21:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
