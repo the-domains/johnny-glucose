@@ -1,7 +1,7 @@
 name: Johnny Glucose
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0
+layout_spectrum: 0.54792
+typography_spectrum: 0.54985
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#FFFA02'
     - '#A3A4A3'
     - '#0288E9'
-  brandStrength: 1
-  lightness: 0.6875
-  saturation: 0.125
-  rhythmicContrast: 0
+  brandStrength: 0
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
