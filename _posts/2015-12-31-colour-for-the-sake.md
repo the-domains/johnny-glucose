@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-13T21:12:09.328Z'
+datePublished: '2016-01-13T21:12:33.556Z'
 publisher:
   domain: ''
   name: ''
 title: Colour for the sake
-dateModified: '2015-12-31T05:58:51.228Z'
+dateModified: '2016-01-13T21:12:09.328Z'
 sourcePath: _posts/2015-12-31-colour-for-the-sake.md
 published: true
 inFeed: true
