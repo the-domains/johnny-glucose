@@ -4,7 +4,7 @@
         <description><![CDATA[Johnnys GlueClose]]></description>
         <link>https://thegrid.ai/johnny-glucose/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 21:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 21:13:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnny-glucose/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[She was golden until she grew olden. Eventually dried up and was grittier than a bag of desert sand.]]></title>
@@ -26,27 +26,6 @@
             <link>https://thegrid.ai/johnny-glucose/universal-universe/index.html</link>
             <guid isPermaLink="false">5c22e220-93f0-4b4a-99c5-5b6370735a8f</guid>
             <pubDate>Wed, 13 Jan 2016 10:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dear Dead Deer]]></title>
-            <description><![CDATA[<article><h1>Dear Dead Deer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f42f25b9ec4bad9fd4180a54eb7b38c109814ee8.png"></article>]]></description>
-            <link>https://thegrid.ai/johnny-glucose/dear-dead-deer/index.html</link>
-            <guid isPermaLink="false">57e05ade-a990-4ca8-be4a-55437a196f4c</guid>
-            <pubDate>Wed, 13 Jan 2016 21:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39aca0f8-5944-4082-8132-788832216f61.jpg">]]></description>
-            <link>https://thegrid.ai/johnny-glucose/art-for-today/index.html</link>
-            <guid isPermaLink="false">6d41c4f1-0290-40a3-89d2-2c2eb13ef71c</guid>
-            <pubDate>Wed, 13 Jan 2016 21:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blurry Blue, Fuzzy White Title]]></title>
-            <description><![CDATA[<article><h1>Blurry Blue, Fuzzy White Title</h1><p>Burry Blue, Fuzzy White</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0f7b99dc7d5fc2084aebd70ef5ced6ddb0ede48.jpg"></article>]]></description>
-            <link>https://thegrid.ai/johnny-glucose/9a39284d-7b99-4bd7-8ef3-611ca68ecef1/index.html</link>
-            <guid isPermaLink="false">9a39284d-7b99-4bd7-8ef3-611ca68ecef1</guid>
-            <pubDate>Wed, 13 Jan 2016 21:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yellow Breeze]]></title>
@@ -75,6 +54,27 @@
             <link>https://thegrid.ai/johnny-glucose/scissors/index.html</link>
             <guid isPermaLink="false">ad3a919d-82e5-4957-ae01-9ed88d88f8c4</guid>
             <pubDate>Wed, 13 Jan 2016 21:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colour for the sake]]></title>
+            <description><![CDATA[<article><h1>Colour for the sake</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/337707161df6c9d4210153a7f9c4a2e7c7db3805.png"></article>]]></description>
+            <link>https://thegrid.ai/johnny-glucose/colour-for-the-sake/index.html</link>
+            <guid isPermaLink="false">4bcd09a4-7228-4554-a4be-294be723603a</guid>
+            <pubDate>Thu, 31 Dec 2015 05:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39aca0f8-5944-4082-8132-788832216f61.jpg">]]></description>
+            <link>https://thegrid.ai/johnny-glucose/4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e/index.html</link>
+            <guid isPermaLink="false">4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e</guid>
+            <pubDate>Mon, 28 Dec 2015 19:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bde8fd9-6e24-4565-a1eb-ad3541080035.jpg">]]></description>
+            <link>https://thegrid.ai/johnny-glucose/ec2aa3ed-2f19-4867-83ae-7dc577a21c7c/index.html</link>
+            <guid isPermaLink="false">ec2aa3ed-2f19-4867-83ae-7dc577a21c7c</guid>
+            <pubDate>Wed, 13 Jan 2016 21:12:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
