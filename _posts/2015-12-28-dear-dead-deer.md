@@ -1,7 +1,7 @@
 ---
 title: Dear Dead Deer
-dateModified: '2015-12-28T08:10:12.615Z'
-datePublished: '2016-01-13T21:12:09.771Z'
+dateModified: '2016-01-13T21:12:09.771Z'
+datePublished: '2016-01-13T21:12:33.764Z'
 author: []
 sourcePath: _posts/2015-12-28-dear-dead-deer.md
 published: true
