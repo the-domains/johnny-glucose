@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-01-13T21:12:09.369Z'
+datePublished: '2016-01-13T21:12:33.616Z'
 description: Art for Today
-dateModified: '2015-12-28T05:46:31.969Z'
+dateModified: '2016-01-13T21:12:09.369Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-13-art-for-today.md
