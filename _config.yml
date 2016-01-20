@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Johnnys GlueClose
+title: Johnny Glucose
 cta:
   domain: null
   bucket: null
