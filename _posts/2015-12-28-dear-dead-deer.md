@@ -1,14 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-24T10:16:43.824Z'
+dateModified: '2016-01-24T10:16:34.486Z'
 title: Dear Dead Deer
-dateModified: '2016-01-13T21:12:09.771Z'
-datePublished: '2016-01-13T21:12:33.764Z'
 author: []
 sourcePath: _posts/2015-12-28-dear-dead-deer.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: dear-dead-deer/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _type: Article
 
 ---
