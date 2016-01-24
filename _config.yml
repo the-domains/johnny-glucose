@@ -1,7 +1,7 @@
 name: Johnny Glucose
 favicon: null
 layout_spectrum: 0.54792
-typography_spectrum: 0.54985
+typography_spectrum: 0.25392
 collections:
   - index:
       path: /
