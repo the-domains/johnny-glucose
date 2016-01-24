@@ -1,41 +1,41 @@
-name: Johnny Glucose
-favicon: null
-layout_spectrum: 0.54792
-typography_spectrum: 0.54985
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.54792
 title: Johnny Glucose
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.375
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#000000'
     - '#460907'
     - '#69367a'
     - '#987783'
     - '#88a0b9'
-  brandStrength: 0
   lightness: 0.4375
-  saturation: 0.375
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: Johnny Glucose
+typography_spectrum: 0.54985
