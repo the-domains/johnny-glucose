@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Johnny Glucose
+favicon: null
+layout_spectrum: 0.54792
+typography_spectrum: 0.54985
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.54792
 title: Johnny Glucose
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0
-  rhythmicContrast: 1
   brandColors:
     - '#000000'
     - '#460907'
     - '#69367a'
     - '#987783'
     - '#88a0b9'
-  lightness: 0.4375
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
-favicon: null
-name: Johnny Glucose
-typography_spectrum: 0.54985
