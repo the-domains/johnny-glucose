@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:cdbdf603-89b1-4f40-8c05-5d3f4e857610'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T21:12:33.019Z'
-dateModified: '2016-01-13T21:12:08.846Z'
+datePublished: '2016-03-14T08:07:15.786Z'
+dateModified: '2016-03-14T08:07:15.303Z'
 author: []
 title: She was golden until she grew olden. Eventually dried up and was grittier than a bag of desert sand.
+sourcePath: _posts/2016-01-13-she-was-golden-until-she-grew-olden-eventually-dried-up-and.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-she-was-golden-until-she-grew-olden-eventually-dried-up-and.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
