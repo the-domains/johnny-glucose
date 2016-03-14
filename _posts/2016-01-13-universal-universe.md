@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "It's All Around Us. Can You Smell It?"
-datePublished: '2016-01-13T10:15:37.698Z'
-dateModified: '2016-01-13T10:15:24.734Z'
+datePublished: '2016-03-14T02:00:00.053Z'
+dateModified: '2016-03-14T01:57:25.406Z'
 author: []
 title: Universal Universe
 sourcePath: _posts/2016-01-13-universal-universe.md
@@ -23,6 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Universal Universe
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7295dcf-d3b6-4981-b66e-300bc59c1e36.jpg)
 
-<article style=""><h1>Behold, the entire universe, packed into one image</h1><p>The Loop is Canada's source for social lifestyle and entertainment content. From life hacks and beauty tips to sex advice from the Golden Girls, we serve up fresh content daily with a dash of perspective and plenty of humour. It's just what you need, just when you need it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28f5bc72c3a388960721b611980a6965428c1b14.gif" /></article>
+# Universal Universe
